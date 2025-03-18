@@ -1,4 +1,4 @@
-# OPC_DATA_SCIENTIST_PROJET5
+# PROJET 5 
 Segmentez des clients d'un site e-commerce
 
 
@@ -6,7 +6,7 @@ Segmentez des clients d'un site e-commerce
 
 ## Aperçu de l'entreprise
 
-![Aperçu du site web]() 
+![Aperçu du site web](images/Capture_ecran_2025-03-18_001059.png)
 ## Contexte
 
 Je suis consultant pour **Olist**, une entreprise brésilienne qui offre une solution de vente sur les marketplaces en ligne. Olist cherche à améliorer sa stratégie marketing en segmentant ses clients. Mon objectif est de fournir une segmentation client actionable qui pourra être utilisée pour les campagnes de communication, le suivi des clients et l’amélioration de l’expérience utilisateur.
