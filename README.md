@@ -6,7 +6,7 @@ Segmentez des clients d'un site e-commerce
 
 ## Aperçu de l'entreprise
 
-![Aperçu du site web](images/Capture_ecran_2025-03-18_001059.png)
+![Aperçu du site web](https://github.com/Abdelilah04116/Segmentez_des_clients_d_un_site_ecommerce/blob/f8e445ddb697f94a9dc44e740f2bdb55b3559bb6/Capture%20d'%C3%A9cran%202025-03-18%20001059.png)
 ## Contexte
 
 Je suis consultant pour **Olist**, une entreprise brésilienne qui offre une solution de vente sur les marketplaces en ligne. Olist cherche à améliorer sa stratégie marketing en segmentant ses clients. Mon objectif est de fournir une segmentation client actionable qui pourra être utilisée pour les campagnes de communication, le suivi des clients et l’amélioration de l’expérience utilisateur.
